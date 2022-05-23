@@ -4,7 +4,7 @@ import pic from "./pic.jpg";
 import proj1 from "./proj-1.JPG";
 import proj2 from "./proj-2.JPG";
 import proj3 from "./proj-3.JPG";
-import mycv from "./Mariana_Ingrid_Calle_eng_prov.pdf";
+import mycv from "./mariana_ingrid_calle_en.pdf";
 import { BsFillEnvelopeFill, BsGithub, BsLinkedin } from "react-icons/bs";
 import { AiOutlineGlobal } from "react-icons/ai";
 import { useState } from "react";
