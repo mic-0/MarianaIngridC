@@ -2,7 +2,7 @@
   "name": "mycv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marianaingridc.github.io/MarianaIngridC/",
+  "homepage": "https://marianaingridc.github.io/MarianaIngridC",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
@@ -22,7 +22,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://marianaingridc.github.io/MarianaIngridC",
   "eslintConfig": {
     "extends": [
       "react-app",
