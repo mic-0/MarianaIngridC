@@ -174,7 +174,7 @@ function App() {
                 <img src={proj3} style={{marginLeft:'-7%'}}></img>
                 <h3>Banking App</h3>
                 
-                <a href='https://github.com/MarianaIngridC/bank-system-app' target='_blank' style={{marginLeft: '1%', marginTop:'10%', alignItems: 'end', color: 'black'}}><BsGithub size={'1.5rem'} /></a>
+                <a href='https://github.com/MarianaIngridC/bank-system-app' target='_blank' style={{marginLeft: '5%', marginTop:'10%', alignItems: 'end', color: 'black'}}><BsGithub size={'1.5rem'} /></a>
                 <p>A banking website where users can create account, increase balance with incomes, decrease balance with payments, transfer money and simulate loans </p>
                 <h4>Technologies:</h4>
                 <div className="projects-tags">
